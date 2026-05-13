@@ -48,10 +48,10 @@ except Exception:
 # ─────────────────────────────────────────────────────────────────────────────
 
 # Input PDF (the scanned question paper).
-PDF_PATH = r"C:\Users\Adit Al Razi\Downloads\babas\EEE 317.pdf"
+PDF_PATH = r""
 
 # Where to write the bookmarked PDF.  Must be a different path than PDF_PATH.
-OUTPUT_PDF = r"C:\Users\Adit Al Razi\Downloads\babas\EEE 317 - outlined.pdf"
+OUTPUT_PDF = r""
 
 # Which OCR backend to use by default ("tesseract" or "chandra").  Can be
 # overridden on the command line with --backend.
